@@ -15,9 +15,5 @@ Currently, I work with cutting-edge frameworks to create efficient and scalable 
   
 I am passionate about crafting robust, user-friendly solutions and constantly learning to stay at the forefront of technology. 🚀
 
-## Social Media
-- Twitter [@jlgacha](https://x.com/jlgacha)
-- Discord [@gachaa](https://discordapp.com/users/715275029394358333)
-
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GachaDev&layout=compact&theme=radical)
