@@ -15,5 +15,5 @@ Currently, I work with cutting-edge frameworks to create efficient and scalable 
   
 I am passionate about crafting robust, user-friendly solutions and constantly learning to stay at the forefront of technology. 🚀
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GachaDev&layout=compact&theme=radical)
+## Stats
+![Stats](https://githubcard.com/GachaDev.svg)
